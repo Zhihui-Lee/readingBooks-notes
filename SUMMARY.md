@@ -6,4 +6,5 @@
     * [我的源码给猫吃了](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/wo-de-yuan-ma-gei-mao-chi-le.md)
     * [软件的熵](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/ruan-jian-de-shang.md)
     * [石头汤与煮青蛙](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/shi-tou-tang-yu-zhu-qing-wa.md)
+    * [足够好的软件](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/zu-gou-hao-de-ruan-jian.md)
 
