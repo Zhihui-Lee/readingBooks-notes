@@ -9,4 +9,6 @@
     * [足够好的软件](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/zu-gou-hao-de-ruan-jian.md)
     * [你的知识产权](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/ni-de-zhi-shi-chan-quan.md)
     * [交流](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/jiao-liu.md)
+  * [注重实效的途径](chapter1/zhu-zhong-shi-xiao-de-tu-jing.md)
+    * [重复的危害](chapter1/zhu-zhong-shi-xiao-de-tu-jing/zhong-fu-de-wei-hai.md)
 
