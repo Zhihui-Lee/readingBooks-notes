@@ -11,4 +11,5 @@
     * [交流](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/jiao-liu.md)
   * [注重实效的途径](chapter1/zhu-zhong-shi-xiao-de-tu-jing.md)
     * [重复的危害](chapter1/zhu-zhong-shi-xiao-de-tu-jing/zhong-fu-de-wei-hai.md)
+    * [正交性](chapter1/zhu-zhong-shi-xiao-de-tu-jing/zheng-jiao-xing.md)
 
