@@ -8,4 +8,5 @@
     * [石头汤与煮青蛙](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/shi-tou-tang-yu-zhu-qing-wa.md)
     * [足够好的软件](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/zu-gou-hao-de-ruan-jian.md)
     * [你的知识产权](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/ni-de-zhi-shi-chan-quan.md)
+    * [交流](chapter1/zhu-zhong-shi-xiao-de-zhe-xue/jiao-liu.md)
 
